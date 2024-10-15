@@ -1,0 +1,20 @@
+/* Image */
+.et_pb_menu__logo a img{
+	max-width:73%;
+	margin-top:27px;
+}
+
+/* 767px and smaller screen sizes */
+@media (max-width:767px){
+
+	/* Image */
+	.et_pb_menu__logo a img{
+		margin-top:-2px;
+	}
+	
+}
+
+/* hero section form shadow */
+#et_pb_contact_form_0{
+	box-shadow:0px 15px 44px -20px rgba(10,10,10,0);
+}
